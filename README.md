@@ -1,7 +1,7 @@
 # Proyecto de Machine Learning con JAX en Google Colab
 
 Este proyecto utiliza **Google Colab** para implementar y entrenar un modelo de clasificación multicategoría con **JAX** y herramientas relacionadas. El objetivo principal es construir, entrenar y evaluar un modelo de red neuronal utilizando las herramientas optimizadas de JAX para hardware acelerado (GPU/TPU).
-
+(https://repository-images.githubusercontent.com/154739597/90607180-e100-11e9-8642-c65819bec604)
 ---
 
 ## Tecnologías y Librerías Utilizadas
