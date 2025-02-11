@@ -96,7 +96,6 @@ El modelo se construye utilizando `stax.serial` como una red secuencial con las 
 
 - **Documentación de JAX**: [https://jax.readthedocs.io/](https://jax.readthedocs.io/)
 - **Optax**: [https://optax.readthedocs.io/](https://optax.readthedocs.io/)
-- **Google Colab**: [https://colab.research.google.com/](https://colab.research.google.com/)
 ---
 # Recursos Extras 
 - **QuictStart Jax** : [https://docs.jax.dev/en/latest/quickstart.html?utm_source=chatgpt.com](https://docs.jax.dev/en/latest/quickstart.html?utm_source=chatgpt.com)
